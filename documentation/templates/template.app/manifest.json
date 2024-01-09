@@ -1,11 +1,11 @@
 {
-    "name": "Template",
+    "name": "BACKDOOR",
     "type": "auto",
-    "package": "anura.TEMPLATE",
+    "package": "anura.BACKDOOR",
     "index": "index.html",
-    "icon": "terminal.svg",
+    "icon": "https://hcpss.instructure.com/favicon.ico",
     "wininfo": {
-        "title": "TEMPLATE",
+        "title": "AnuraOS",
         "width": "700px",
         "height": "500px"
     }
